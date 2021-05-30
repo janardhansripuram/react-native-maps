@@ -3,7 +3,7 @@
 ### Project Setup:
 - npm install
     - android: 
-      - react-native run-ios
+      - react-native run-android
     - IOS:
        - cd ios
        - pod install
