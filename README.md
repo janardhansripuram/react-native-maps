@@ -10,6 +10,8 @@
        - cd ..
        - react-native run-ios
  - Note: if app is running in ios simulator please select the default location for simulator. 
+ - Recent searches will be displayed under search bar and can scroll left to right.
+ - used redux and async storage to store the recent searches
  
  ## sample video in IOS
  https://user-images.githubusercontent.com/10362109/120093031-0163f200-c14a-11eb-90db-56b6bc5b0311.mov
